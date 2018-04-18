@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "43455496465",
+    "firebase_url": "https://signinproject-8deec.firebaseio.com",
+    "project_id": "signinproject-8deec",
+    "storage_bucket": "signinproject-8deec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43455496465:android:5afe71421e55f0b4",
+        "android_client_info": {
+          "package_name": "com.example.haseena.signinproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43455496465-7qiphjkmp4vvipakj9dkf8g0klf0cgds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.haseena.signinproject",
+            "certificate_hash": "899d39b623653020dbe7fa8a71df7d1375dff63a"
+          }
+        },
+        {
+          "client_id": "43455496465-7qe2vm2v63jdt5hgqevee9bnat8sla5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd83BJUJOKDvcH-zwgrfRCWbj_BgUermA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43455496465-7qe2vm2v63jdt5hgqevee9bnat8sla5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
